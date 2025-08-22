@@ -75,21 +75,12 @@
 * Use o **Language Studio** para trabalhar com **texto**, aplicando análise de sentimento, extração de entidades, resumo e outros recursos de NLP.
 * Ambos podem ser explorados sem código diretamente no portal **Azure AI Foundry**, através da seção **Playgrounds** — Speech ou Language — conforme seus objetivos ([Microsoft Learning][8]).
 
-Se quiser, posso te ajudar com exemplos práticos em código ou cenários específicos para implementar em aplicações reais — só me dizer!
 
 [1]: https://docs.azure.cn/en-us/ai-services/speech-service/speech-studio-overview?utm_source=chatgpt.com "Speech Studio overview - Speech service - Azure AI services"
 [2]: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview?utm_source=chatgpt.com "What is the Speech service? - Azure AI services | Microsoft Learn"
 [3]: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech?utm_source=chatgpt.com "Text to speech overview - Azure AI services - Microsoft Community"
 [4]: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-audio-content-creation?utm_source=chatgpt.com "Audio content creation tool - Azure AI services | Microsoft Learn"
 [5]: https://azure.microsoft.com/en-us/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/?utm_source=chatgpt.com "3 Microsoft Azure AI product features that accelerate language ..."
-[6]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html "
-            Explore Speech in Azure AI Foundry portal | 
-            
-            mslearn-ai-fundamentals
-        "
+[6]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
 [7]: https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview?utm_source=chatgpt.com "What is Azure AI Language - Azure AI services | Microsoft Learn"
-[8]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html "
-            Analyze text in Azure AI Foundry portal | 
-            
-            mslearn-ai-fundamentals
-        "
+[8]: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
